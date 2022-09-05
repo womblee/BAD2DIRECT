@@ -1,9 +1,3 @@
-# Regular link
-# https://drive.google.com/file/d/FILE_ID/view?usp=sharing
-
-# Direct download link
-# https://drive.google.com/uc?id=FILE_ID&export=download&confirm=t
-
 # Import
 import argparse
 
