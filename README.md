@@ -1,6 +1,8 @@
 # BAD2DIRECT
 Converts regular bad google drive links to direct ones
 
+I don't know why I made this, and why it's a repository?
+
 # Usage
 ```
 python convert.py --link https://docs.google.com/document/d/1_XBsQeI__4iDPRDGHbnVIWch9sfnFnCQ0H-yKiKhIy8/edit?usp=sharing
